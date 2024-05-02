@@ -6,7 +6,7 @@ def canUnlockAll(boxes):
     """This function will take a list of lists and the content
        of a list will unlock other lists
     """
-    
+
     if not boxes:
         return False
 
